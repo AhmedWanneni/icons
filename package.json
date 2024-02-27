@@ -5,6 +5,9 @@
     "type": "git",
     "url": "https://github.com/AhmedWanneni/icons.git"
   },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
+  },
   "type": "module",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
