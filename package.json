@@ -1,6 +1,6 @@
 {
   "name": "@ladabees/icons",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "repository": {
     "type": "git",
     "url": "https://github.com/AhmedWanneni/icons.git"
@@ -9,8 +9,8 @@
     "registry": "https://registry.npmjs.org"
   },
   "type": "module",
-  "main": "dist/icons.js",
-  "types": "dist/icons.d.ts",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "files": [
     "dist"
   ],
