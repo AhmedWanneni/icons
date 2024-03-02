@@ -9,8 +9,8 @@
     "registry": "https://registry.npmjs.org"
   },
   "type": "module",
-  "main": "dist/index.js",
-  "types": "dist/index.d.ts",
+  "main": "dist/icons.js",
+  "types": "dist/icons.d.ts",
   "files": [
     "dist"
   ],
